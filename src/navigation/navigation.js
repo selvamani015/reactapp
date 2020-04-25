@@ -10,8 +10,7 @@ import Student from '../student/student';
 import Tables from '../tables/tables';
 import MultiUpload from '../Components/MultiUpload';
 import FileUpload from '../Components/FileUpload';
-import DataTable from '../Components/DataTable';
-
+import DataTable from '../Components/DataTable'; 
 
 export default class leftnav extends Component {
 
